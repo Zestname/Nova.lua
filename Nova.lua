@@ -477,5 +477,5 @@ function Nova.Init()
 	return Gui
 end
 
--- BURADA DÜZELTME YAPILDI: Modül doğrudan çalıştırıldı.
+-- BURADA DÜZELTME YAPILDI: Modüül doğrudan çalıştırıldı.
 return Nova.Init()
